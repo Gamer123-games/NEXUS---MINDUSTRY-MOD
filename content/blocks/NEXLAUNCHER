@@ -1,4 +1,0 @@
-NEXLAUNCHER {hasItems = true
-             reasearch :NEXLAUNCHER
-             launchtime float 2
-             NEXLAUNCHER.png}

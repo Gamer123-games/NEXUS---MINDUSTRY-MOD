@@ -1,7 +1,0 @@
-NEXUS explosian area{
-         baseLaunchCost: ("NEXITE/500")
-         launchCost: ("copper/2000")
-         startingItems: ("copper/100")
-         startingItems: ("NEXITE/50")
-         zone-<NEXUS explosian area.png>
-         configureObjective Objective: wave 50}
