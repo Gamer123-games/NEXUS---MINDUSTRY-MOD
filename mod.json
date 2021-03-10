@@ -1,10 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-%appdata%/Mindustry/mods/
-       name: NEXUS
-       displayName: SAVE NEXUS [red]NEXUS MOD[]
-        author: Gamer123-games
-         description: NEXUS has exploded!! YOU must harness the power of NEXIUM(ALPHA 0.1)
-           version: "1.0"
-           minGameVersion: "100.3"
-            dependencies: []
+
+      name: "NEXUS"
+      displayName: "[red]save[red] NEXUS"
+      author: "Gamer123-games"
+      description:NEXUS has exploded!! YOU must harness the power of NEXIUM(ALPHA 0.1)
+      version: "1.0"
+      minGameVersion: "100.3"
+      dependencies: []
