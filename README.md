@@ -25,3 +25,5 @@ A new metal called NEXUIM which can be refined as NEXITE.
 And new item launcher called NEXLAUNCHER.
 Also a new crafter called NEXITE crafter.
 With other machines called NEXRD, NSE, more.
+# Use the error section to help make it better
+Please if you have a problem put it in the error section so i can make this better

@@ -1,0 +1,4 @@
+NEXIUM crafter {crafttime float = 120
+                 output item ("NEXITE/1")
+                 consume ("NEXUIM/1")
+                 NEXIUM crafter.png  }

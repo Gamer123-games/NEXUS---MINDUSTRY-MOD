@@ -1,0 +1,9 @@
+NEXRD turret{
+    type:ItemTurret
+    ammo: DoubleTurret
+         ("NEXITE/1")
+         shots 3
+         "type": "BasicBulletType",
+         "bulletSprite": NEXUS-bullet
+         shotWidth float = 3
+         NEXRD turret.png    }

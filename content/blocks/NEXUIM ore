@@ -1,0 +1,3 @@
+NEXUIM {floor : overlay floor
+        overlay floor : ore block
+        NEXUIM.png      }

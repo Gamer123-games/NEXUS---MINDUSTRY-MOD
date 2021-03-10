@@ -1,0 +1,11 @@
+NEXRD{ cost{("NEXITE/5")
+     GENERXUS float 2
+     reasearch :NEXRD}
+     flying = true
+     speed = 10.2
+     Maxspeed = 25.2
+     health float 350
+     engineColor f0000f
+     Canheal = true
+     itemCapacity int 50
+     NEXRD.png}

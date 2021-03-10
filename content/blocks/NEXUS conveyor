@@ -1,0 +1,3 @@
+NEXUS conveyor{cost ("NEXITE/1")
+             speed float 5
+             NEXUS conveyor.png}
