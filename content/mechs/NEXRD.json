@@ -1,0 +1,22 @@
+name: NEXRD
+description: A NEXUS power harnessing mech that shoots electricity
+speed: 2.5
+boostSpeed: 5.0
+buildPower: 2
+engineColor: "666495"
+flying: true
+health: 1000
+weaponOffsetX: 4
+weapon: {
+  name: NERDC
+  length: 1.5
+  reload: 4
+  alternate: false
+  bullet: lightning
+}weapen:{
+   name: NEXRDC
+   length: 2.5
+   reaload: 10
+   alternate: true
+   bullet: bombExplosive
+}

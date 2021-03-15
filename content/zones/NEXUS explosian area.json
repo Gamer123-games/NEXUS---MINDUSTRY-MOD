@@ -1,0 +1,29 @@
+name: NEXUS Explosian Area
+description: This is the so called NEXUS area
+loadout: basicFoundation
+startingItems: [
+  NEXIUM/500
+]
+conditionWave: 50
+launchPeriod: 10
+requirements: [
+  {
+    type: ZoneWave
+    zone: groundZero
+    wave: 50
+  }
+  {
+    type: Unlock
+    mech: NEXRD
+  }
+  {
+    type: Unlock
+    block: NEXUS conveyor
+  }
+]
+resources: [
+  NEXUIM
+  copper
+  lead
+  elctrum
+]

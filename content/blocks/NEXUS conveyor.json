@@ -1,6 +1,6 @@
 type: Conveyor
 name: NEXUS conveyor
-description: a NEXUIM conveyor
+description: Example conveyor.
 requirements: [
   NEXITE/3
   NEXUIM/3

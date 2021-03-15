@@ -9,7 +9,7 @@ consumes: {
 }
 category: upgrade
 research: NEXRD-builder
-requirements: {
+requirements: [
   NEXITE/5
   NEXUIM/15
-}
+]
